@@ -1,3 +1,9 @@
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
 # 💱 Currency Converter (Python)
 
 > **Made with ❤️ by Manav** – a 17-year-old passionate 12th-grade developer who loves building useful tools for developers and learners.  
